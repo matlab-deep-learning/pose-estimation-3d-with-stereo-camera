@@ -34,13 +34,20 @@ Shunichi Kusano
 
 ## Relevant Industries
 Medical Imaging
+
 Sports Science
+
 Robotics
+
 Entertainment
 
 ## Relevant Products
 MATLAB R2021a
+
 Deep Learning Toolbox
+
 Computer Vision Toolbox
+
 Image Processing Toolbox
+
 Signal Processing Toolbox
