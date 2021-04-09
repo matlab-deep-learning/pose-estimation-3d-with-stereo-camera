@@ -6,7 +6,7 @@ Pose Estimation 3D with stereo camera
 このデモはディープニューラルネットワークと汎用のカメラ2台を使って3次元の姿勢推定を行うデモです。
 This demo uses a deep neural network and two generic cameras to perform 3D pose estimation.
 
-![結果 - Result](Data/readmeImage.jpg)
+![結果 - Result](Data/md/readmeImage.jpg)
 
 デモで使った2台のカメラパラメータは事前に単一カメラキャリブレータAppで計算したものです。
 The camera intrinsic parameters of the two cameras used in the demo were calculated in advance by the Signle Camera Calibrator App.
