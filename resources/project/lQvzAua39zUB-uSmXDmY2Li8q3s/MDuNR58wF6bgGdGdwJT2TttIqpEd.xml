@@ -1,0 +1,595 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <Files>
+        <File path="README.md" value="e316d1d2" />
+        <File path="SECURITY.md" value="78689491" />
+        <File path="doc/GettingStarted.md" value="6fc4b778" />
+        <File path="doc/GettingStarted_images/figure_0_png.jpg" value="e6e01242" />
+        <File path="doc/GettingStarted_images/figure_1_png.jpg" value="2f57a177" />
+        <File path="doc/GettingStarted_images/figure_2_png.jpg" value="642708d5" />
+        <File path="doc/GettingStarted_images" value="-1" />
+        <File path="doc/README_images/figure_0_png.jpg" value="642708d5" />
+        <File path="doc/README_images" value="-1" />
+        <File path="doc/SimplePoseNetEstimationOnJetson.md" value="2c77f7b3" />
+        <File path="doc/SimplePoseNetEstimationOnJetson_images/figure_0_png.jpg" value="8f1e1cce" />
+        <File path="doc/SimplePoseNetEstimationOnJetson_images/image_0_png.jpg" value="4d0d9449" />
+        <File path="doc/SimplePoseNetEstimationOnJetson_images/image_1_png.jpg" value="e67528d5" />
+        <File path="doc/SimplePoseNetEstimationOnJetson_images" value="-1" />
+        <File path="doc/SimplePoseNetEstimationWithWebcamExample.md" value="689bbd89" />
+        <File path="doc/SimplePoseNetEstimationWithWebcamExample_images/image_0_png.jpg" value="6dd3bbe3" />
+        <File path="doc/SimplePoseNetEstimationWithWebcamExample_images" value="-1" />
+        <File path="doc/SimplePoseNetForMultiPerson.md" value="91cc6ed4" />
+        <File path="doc/SimplePoseNetForMultiPerson_images/figure_0_png.jpg" value="e6e01242" />
+        <File path="doc/SimplePoseNetForMultiPerson_images/figure_1_png.jpg" value="4b5a2ddd" />
+        <File path="doc/SimplePoseNetForMultiPerson_images/figure_2_png.jpg" value="62339849" />
+        <File path="doc/SimplePoseNetForMultiPerson_images/figure_3_png.jpg" value="ca2edcf4" />
+        <File path="doc/SimplePoseNetForMultiPerson_images/figure_4_png.jpg" value="a0f3a73" />
+        <File path="doc/SimplePoseNetForMultiPerson_images/figure_5_png.jpg" value="6484c3a8" />
+        <File path="doc/SimplePoseNetForMultiPerson_images/figure_6_png.jpg" value="238af3f6" />
+        <File path="doc/SimplePoseNetForMultiPerson_images" value="-1" />
+        <File path="doc/SimplePoseNetTrainingExample.md" value="10a0520f" />
+        <File path="doc/SimplePoseNetTrainingExample_images/figure_0_png.jpg" value="3ece56a" />
+        <File path="doc/SimplePoseNetTrainingExample_images" value="-1" />
+        <File path="doc" value="-1" />
+        <File path="license.txt" value="adacb8e6" />
+        <File path="logo.png" value="e91d8d0" />
+        <File path="resources/project/Project.xml" value="c576b26a" />
+        <File path="resources/project/ProjectData.type.Info.xml" value="ddacee60" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category.xml" value="d2dc6b71" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/artifact.type.Label.xml" value="3a808e07" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/convenience.type.Label.xml" value="9fa19c1e" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/derived.type.Label.xml" value="b32f4cc5" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/design.type.Label.xml" value="657f94e3" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/none.type.Label.xml" value="4434695f" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/other.type.Label.xml" value="7716e543" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/test.type.Label.xml" value="eff7b485" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category" value="-1" />
+        <File path="resources/project/Root.type.Categories" value="-1" />
+        <File path="resources/project/Root.type.Files/README.md.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/README.mlx.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/doc.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/GettingStarted.md.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/GettingStarted_images.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/GettingStarted_images.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/GettingStarted_images.type.File/figure_0.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/GettingStarted_images.type.File/figure_1.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/GettingStarted_images.type.File/figure_2.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/GettingStarted_images.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/doc.type.File/README_images.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/README_images.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/README_images.type.File/figure_0.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/README_images.type.File/figure_1.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/README_images.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationOnJetson.md.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationOnJetson_images.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationOnJetson_images.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationOnJetson_images.type.File/image_0.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationOnJetson_images.type.File/image_1.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationOnJetson_images.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationWithWebcamExample.md.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationWithWebcamExample_images.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationWithWebcamExample_images.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationWithWebcamExample_images.type.File/image_0.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetEstimationWithWebcamExample_images.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson.md.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson_images.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson_images.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson_images.type.File/figure_0.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson_images.type.File/figure_1.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson_images.type.File/figure_2.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson_images.type.File/figure_3.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson_images.type.File/figure_4.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson_images.type.File/figure_5.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson_images.type.File/figure_6.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetForMultiPerson_images.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetTrainingExample.md.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetTrainingExample_images.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetTrainingExample_images.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetTrainingExample_images.type.File/figure_0.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/doc.type.File/SimplePoseNetTrainingExample_images.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/doc.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/logo.png.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/simple-pose-estimation-package.prj.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File/+posenet.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File/+posenet.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File/+posenet.type.File/PoseEstimator.m.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/src.type.File/+posenet.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/src.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File/data.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File/data.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File/data.type.File/simplePoseNet.mat.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/src.type.File/data.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/src.type.File/demos.xml.type.File.xml" value="6396ada" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/GettingStarted.mlx.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/SimplePoseNetEstimationOnJetson.mlx.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/SimplePoseNetEstimationWithWebcamExample.mlx.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/SimplePoseNetForMultiPerson.mlx.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/SimplePoseNetTrainingExample.mlx.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/cmaps.mat.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/html.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/html.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/html.type.File/GettingStarted.html.type.File.xml" value="32e5dc7e" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/html.type.File/SimplePoseNetEstimationOnJetson.html.type.File.xml" value="32e5dc7e" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/html.type.File/SimplePoseNetEstimationWithWebcamExample.html.type.File.xml" value="32e5dc7e" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/html.type.File/SimplePoseNetForMultiPerson.html.type.File.xml" value="32e5dc7e" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/html.type.File/SimplePoseNetTrainingExample.html.type.File.xml" value="32e5dc7e" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/html.type.File/helptoc.xml.type.File.xml" value="6396ada" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/html.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File/simplePoseEstimation.m.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/src.type.File/doc.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/src.type.File/info.xml.type.File.xml" value="6396ada" />
+        <File path="resources/project/Root.type.Files/src.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files/work.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/work.type.File/1.type.DIR_SIGNIFIER.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files/work.type.File" value="-1" />
+        <File path="resources/project/Root.type.Files" value="-1" />
+        <File path="resources/project/Root.type.ProjectPath/516599a3-7860-4342-8edc-5ecdc8f21263.type.Reference.xml" value="65c46ad3" />
+        <File path="resources/project/Root.type.ProjectPath/ce2f350f-1be0-44a8-a14c-8003bff7ee8e.type.Reference.xml" value="5fdee07a" />
+        <File path="resources/project/Root.type.ProjectPath/ce9469b7-55c0-455e-9012-9b677c4e55c5.type.Reference.xml" value="23431c7a" />
+        <File path="resources/project/Root.type.ProjectPath/fa9a1669-5735-4341-b8b3-44d18bceede8.type.Reference.xml" value="278c5ebc" />
+        <File path="resources/project/Root.type.ProjectPath" value="-1" />
+        <File path="resources/project/Root.type.WorkingFolders/ProjectStartupFolder.type.Reference.xml" value="2fc7a722" />
+        <File path="resources/project/Root.type.WorkingFolders" value="-1" />
+        <File path="resources/project/uuid-4334e779-fd5d-49e5-9fd3-7b0f9c823dc8.xml" value="3af507e" />
+        <File path="resources/project" value="-1" />
+        <File path="resources" value="-1" />
+        <File path="simple-pose-estimation-package.prj" value="33b4017e" />
+        <File path="simple-pose-estimation.prj" value="e0b87f15" />
+        <File path="src/+posenet/PoseEstimator.m" value="446555aa" />
+        <File path="src/+posenet" value="-1" />
+        <File path="src/data/simplePoseNet.mat" value="1b08cead" />
+        <File path="src/data" value="-1" />
+        <File path="src/demos.xml" value="abf04d07" />
+        <File path="src/doc/GettingStarted.mlx" value="24208ec" />
+        <File path="src/doc/README.mlx" value="27ffc423" />
+        <File path="src/doc/SimplePoseNetEstimationOnJetson.mlx" value="b564778f" />
+        <File path="src/doc/SimplePoseNetEstimationWithWebcamExample.mlx" value="3f1050be" />
+        <File path="src/doc/SimplePoseNetForMultiPerson.mlx" value="b37712f6" />
+        <File path="src/doc/SimplePoseNetTrainingExample.mlx" value="9c86d8bb" />
+        <File path="src/doc/cmaps.mat" value="801dce23" />
+        <File path="src/doc/html/GettingStarted.html" value="67c370e7" />
+        <File path="src/doc/html/README.html" value="4118da90" />
+        <File path="src/doc/html/SimplePoseNetEstimationOnJetson.html" value="a2f3334a" />
+        <File path="src/doc/html/SimplePoseNetEstimationWithWebcamExample.html" value="8d8f2619" />
+        <File path="src/doc/html/SimplePoseNetForMultiPerson.html" value="5dcd0d90" />
+        <File path="src/doc/html/SimplePoseNetTrainingExample.html" value="c795abd2" />
+        <File path="src/doc/html/helptoc.xml" value="3f03227" />
+        <File path="src/doc/html" value="-1" />
+        <File path="src/doc/simplePoseEstimation.m" value="d85cc428" />
+        <File path="src/doc" value="-1" />
+        <File path="src/info.xml" value="4afbffb4" />
+        <File path="src" value="-1" />
+        <File path="work/.gitkeep" value="0" />
+        <File path="work" value="-1" />
+    </Files>
+    <MetadataNode>
+        <path value="ProjectData:type:Info">
+            <node name="Info">
+                <entry value="simple-pose-estimation" key="Name" />
+            </node>
+        </path>
+        <path value="Root:type:Categories">
+            <path value="FileClassCategory:type:Category">
+                <node name="Info">
+                    <entry value="None" key="DataType" />
+                    <entry value="Classification" key="Name" />
+                    <entry value="1" key="ReadOnly" />
+                    <entry value="1" key="SingleValued" />
+                </node>
+                <path value="artifact:type:Label">
+                    <node name="Info">
+                        <entry value="Artifact" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="convenience:type:Label">
+                    <node name="Info">
+                        <entry value="Convenience" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="derived:type:Label">
+                    <node name="Info">
+                        <entry value="Derived" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="design:type:Label">
+                    <node name="Info">
+                        <entry value="Design" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="none:type:Label">
+                    <node name="Info">
+                        <entry value="None" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="other:type:Label">
+                    <node name="Info">
+                        <entry value="Other" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="test:type:Label">
+                    <node name="Info">
+                        <entry value="Test" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="Root:type:Files">
+            <path value="README.md:type:File">
+                <node name="Info" />
+            </path>
+            <path value="README.mlx:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry value="FileClassCategory" key="UUID" />
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                    </node>
+                </node>
+            </path>
+            <path value="doc:type:File">
+                <node name="Info" />
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info" />
+                </path>
+                <path value="GettingStarted.md:type:File">
+                    <node name="Info" />
+                </path>
+                <path value="GettingStarted_images:type:File">
+                    <node name="Info" />
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_0.png:type:File">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_1.png:type:File">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_2.png:type:File">
+                        <node name="Info" />
+                    </path>
+                </path>
+                <path value="README_images:type:File">
+                    <node name="Info" />
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_0.png:type:File">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_1.png:type:File">
+                        <node name="Info" />
+                    </path>
+                </path>
+                <path value="SimplePoseNetEstimationOnJetson.md:type:File">
+                    <node name="Info" />
+                </path>
+                <path value="SimplePoseNetEstimationOnJetson_images:type:File">
+                    <node name="Info" />
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                    <path value="image_0.png:type:File">
+                        <node name="Info" />
+                    </path>
+                    <path value="image_1.png:type:File">
+                        <node name="Info" />
+                    </path>
+                </path>
+                <path value="SimplePoseNetEstimationWithWebcamExample.md:type:File">
+                    <node name="Info" />
+                </path>
+                <path value="SimplePoseNetEstimationWithWebcamExample_images:type:File">
+                    <node name="Info" />
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                    <path value="image_0.png:type:File">
+                        <node name="Info" />
+                    </path>
+                </path>
+                <path value="SimplePoseNetForMultiPerson.md:type:File">
+                    <node name="Info" />
+                </path>
+                <path value="SimplePoseNetForMultiPerson_images:type:File">
+                    <node name="Info" />
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_0.png:type:File">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_1.png:type:File">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_2.png:type:File">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_3.png:type:File">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_4.png:type:File">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_5.png:type:File">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_6.png:type:File">
+                        <node name="Info" />
+                    </path>
+                </path>
+                <path value="SimplePoseNetTrainingExample.md:type:File">
+                    <node name="Info" />
+                </path>
+                <path value="SimplePoseNetTrainingExample_images:type:File">
+                    <node name="Info" />
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                    <path value="figure_0.png:type:File">
+                        <node name="Info" />
+                    </path>
+                </path>
+            </path>
+            <path value="logo.png:type:File">
+                <node name="Info" />
+            </path>
+            <path value="simple-pose-estimation-package.prj:type:File">
+                <node name="Info" />
+            </path>
+            <path value="src:type:File">
+                <node name="Info" />
+                <path value="+posenet:type:File">
+                    <node name="Info" />
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                    <path value="PoseEstimator.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                </path>
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info" />
+                </path>
+                <path value="data:type:File">
+                    <node name="Info" />
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                    <path value="simplePoseNet.mat:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                </path>
+                <path value="demos.xml:type:File">
+                    <node name="Info">
+                        <node name="Category">
+                            <entry value="FileClassCategory" key="UUID" />
+                            <node name="Label">
+                                <entry value="derived" key="UUID" />
+                            </node>
+                        </node>
+                    </node>
+                </path>
+                <path value="doc:type:File">
+                    <node name="Info" />
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                    <path value="GettingStarted.mlx:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="SimplePoseNetEstimationOnJetson.mlx:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="SimplePoseNetEstimationWithWebcamExample.mlx:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="SimplePoseNetForMultiPerson.mlx:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="SimplePoseNetTrainingExample.mlx:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="cmaps.mat:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="html:type:File">
+                        <node name="Info" />
+                        <path value="1:type:DIR_SIGNIFIER">
+                            <node name="Info" />
+                        </path>
+                        <path value="GettingStarted.html:type:File">
+                            <node name="Info">
+                                <node name="Category">
+                                    <entry value="FileClassCategory" key="UUID" />
+                                    <node name="Label">
+                                        <entry value="artifact" key="UUID" />
+                                    </node>
+                                </node>
+                            </node>
+                        </path>
+                        <path value="SimplePoseNetEstimationOnJetson.html:type:File">
+                            <node name="Info">
+                                <node name="Category">
+                                    <entry value="FileClassCategory" key="UUID" />
+                                    <node name="Label">
+                                        <entry value="artifact" key="UUID" />
+                                    </node>
+                                </node>
+                            </node>
+                        </path>
+                        <path value="SimplePoseNetEstimationWithWebcamExample.html:type:File">
+                            <node name="Info">
+                                <node name="Category">
+                                    <entry value="FileClassCategory" key="UUID" />
+                                    <node name="Label">
+                                        <entry value="artifact" key="UUID" />
+                                    </node>
+                                </node>
+                            </node>
+                        </path>
+                        <path value="SimplePoseNetForMultiPerson.html:type:File">
+                            <node name="Info">
+                                <node name="Category">
+                                    <entry value="FileClassCategory" key="UUID" />
+                                    <node name="Label">
+                                        <entry value="artifact" key="UUID" />
+                                    </node>
+                                </node>
+                            </node>
+                        </path>
+                        <path value="SimplePoseNetTrainingExample.html:type:File">
+                            <node name="Info">
+                                <node name="Category">
+                                    <entry value="FileClassCategory" key="UUID" />
+                                    <node name="Label">
+                                        <entry value="artifact" key="UUID" />
+                                    </node>
+                                </node>
+                            </node>
+                        </path>
+                        <path value="helptoc.xml:type:File">
+                            <node name="Info">
+                                <node name="Category">
+                                    <entry value="FileClassCategory" key="UUID" />
+                                    <node name="Label">
+                                        <entry value="derived" key="UUID" />
+                                    </node>
+                                </node>
+                            </node>
+                        </path>
+                    </path>
+                    <path value="simplePoseEstimation.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                </path>
+                <path value="info.xml:type:File">
+                    <node name="Info">
+                        <node name="Category">
+                            <entry value="FileClassCategory" key="UUID" />
+                            <node name="Label">
+                                <entry value="derived" key="UUID" />
+                            </node>
+                        </node>
+                    </node>
+                </path>
+            </path>
+            <path value="work:type:File">
+                <node name="Info" />
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info" />
+                </path>
+            </path>
+        </path>
+        <path value="Root:type:ProjectPath">
+            <path value="516599a3-7860-4342-8edc-5ecdc8f21263:type:Reference">
+                <node name="Info">
+                    <entry value="src" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="ce2f350f-1be0-44a8-a14c-8003bff7ee8e:type:Reference">
+                <node name="Info">
+                    <entry value="src/data" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="ce9469b7-55c0-455e-9012-9b677c4e55c5:type:Reference">
+                <node name="Info">
+                    <entry value="" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="fa9a1669-5735-4341-b8b3-44d18bceede8:type:Reference">
+                <node name="Info">
+                    <entry value="src/doc" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:WorkingFolders">
+            <path value="ProjectStartupFolder:type:Reference">
+                <node name="Info">
+                    <entry value="work" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+        </path>
+    </MetadataNode>
+    <Date value="2021/04/01 7:32:25" />
+</Info>
