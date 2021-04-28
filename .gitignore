@@ -1,2 +1,6 @@
 # List of untracked files to ignore
 Demos/PoseEstimation3DApp.mlapp
+Doc/*
+Internal
+Results/keypoints/*
+Results/Video/*
