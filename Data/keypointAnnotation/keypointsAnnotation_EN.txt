@@ -1,0 +1,17 @@
+1,nose
+2,left eye
+3,right eye
+4,left ear
+5,right ear
+6,left shoulder
+7,right shoulder
+8,left elbow
+9,right elbow
+10,left hand
+11,right hand
+12,left hip
+13,right hip
+14,left knee
+15,right knee
+16,left ankle
+17,right ankle
