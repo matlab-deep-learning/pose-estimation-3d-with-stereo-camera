@@ -1,6 +1,4 @@
-# Title of Demo
-2台の汎用カメラによる3次元姿勢推定  
-Pose Estimation 3D with stereo camera
+# 2台の汎用カメラによる3次元姿勢推定 -Pose Estimation 3D with stereo camera-
 
 ## About
 このデモはディープニューラルネットワークと汎用のカメラ2台を使って3次元の姿勢推定を行うデモです。  
