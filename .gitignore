@@ -1,5 +1,6 @@
 # List of untracked files to ignore
 Demos/PoseEstimation3DApp.mlapp
-/Doc
+Doc/Pose estimation in 3D using stereo camera.pptx
+Doc/ステレオカメラによる3次元姿勢計測.pptx
 /Internal
 /Results
